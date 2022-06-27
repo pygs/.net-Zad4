@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<grupy_produktów>
+	<grupa nazwa="Samochody osobowe">
+		<opis>Różne marki osobówek</opis>
+		<marki>
+			<marka nazwa="Opel">
+				<opis>Opel Automobile GmbH – niemiecki producent samochodów osobowych, sportowych i dostawczych z siedzibą w Rüsselsheim am Main działający od 1862 roku. Wchodzi w skład międzynarodowego koncernu Stellantis.</opis>
+				<model>
+					<nazwa>Insignia</nazwa>
+					<rokprodukcji>2010</rokprodukcji>
+					<pojemność>1.6</pojemność>
+					<paliwo>Benzyna</paliwo>
+					<kolor>Brązowy</kolor>
+				</model>
+				<model>
+					<nazwa>Astra</nazwa>
+					<rokprodukcji>2007</rokprodukcji>
+					<pojemność>1.9</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Niebieski</kolor>
+				</model>
+				<model>
+					<nazwa>Mokka</nazwa>
+					<rokprodukcji>2018</rokprodukcji>
+					<pojemność>1.4</pojemność>
+					<paliwo>Benzyna</paliwo>
+					<kolor>Szary</kolor>
+				</model>
+			</marka>
+			<marka nazwa="Skoda">
+				<opis>Škoda Auto – czeski producent samochodów osobowych założony w 1895 roku w Mládej Boleslavi, początkowo jako Laurin &amp; Klement. Od 1991 roku należy do Volkswagen AG.</opis>
+				<model>
+					<nazwa>Fabia</nazwa>
+					<rokprodukcji>2000</rokprodukcji>
+					<pojemność>1.4</pojemność>
+					<paliwo>Benzyna</paliwo>
+					<kolor>Zielony</kolor>
+				</model>
+				<model>
+					<nazwa>Rapid</nazwa>
+					<rokprodukcji>2012</rokprodukcji>
+					<pojemność>1.2</pojemność>
+					<paliwo>Benzyna</paliwo>
+					<kolor>Czarny</kolor>
+				</model>
+				<model>
+					<nazwa>Citigo</nazwa>
+					<rokprodukcji>2015</rokprodukcji>
+					<pojemność>1.0</pojemność>
+					<paliwo>LPG</paliwo>
+					<kolor>Czerwony</kolor>
+				</model>
+			</marka>
+			<marka nazwa="Toyota">
+				<opis>Toyota Motor Corporation – japoński koncern motoryzacyjny utworzony w 1937 roku.</opis>
+				<model>
+					<nazwa>Yaris</nazwa>
+					<rokprodukcji>2003</rokprodukcji>
+					<pojemność>1.0</pojemność>
+					<paliwo>Benzyna</paliwo>
+					<kolor>Biały</kolor>
+				</model>
+				<model>
+					<nazwa>Rav4</nazwa>
+					<rokprodukcji>2002</rokprodukcji>
+					<pojemność>2.0</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Niebieski</kolor>
+				</model>
+				<model>
+					<nazwa>Aygo</nazwa>
+					<rokprodukcji>2018</rokprodukcji>
+					<pojemność>1.0</pojemność>
+					<paliwo>Benzyna</paliwo>
+					<kolor>Biały</kolor>
+				</model>
+			</marka>
+		</marki>
+	</grupa>
+	<grupa nazwa="Samochody ciężarowe">
+		<opis>Różne marki ciężarówek</opis>
+		<marki>
+			<marka nazwa="MAN">
+				<opis>MAN SE – spółka europejska z siedzibą w Monachium. Założenie: 1898, Niemcy</opis>
+				<model>
+					<nazwa>TGX 18.460 LLS</nazwa>
+					<rokprodukcji>2017</rokprodukcji>
+					<pojemność>12.5</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Biały</kolor>
+				</model>
+				<model>
+					<nazwa>TGS 18.510</nazwa>
+					<rokprodukcji>2020</rokprodukcji>
+					<pojemność>12.4</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Czerwony</kolor>
+				</model>
+				<model>
+					<nazwa>TGL 12.250</nazwa>
+					<rokprodukcji>2018</rokprodukcji>
+					<pojemność>6.8</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Czarny</kolor>
+				</model>
+			</marka>
+			<marka nazwa="Scania">
+				<opis>Scania Aktiebolag – szwedzkie przedsiębiorstwo produkujące samochody ciężarowe, założone w 1891 roku w Malmö.</opis>
+				<model>
+					<nazwa>R420</nazwa>
+					<rokprodukcji>2011</rokprodukcji>
+					<pojemność>11.7</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Czerwony</kolor>
+				</model>
+				<model>
+					<nazwa>R410</nazwa>
+					<rokprodukcji>2015</rokprodukcji>
+					<pojemność>13.0</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Biały</kolor>
+				</model>
+				<model>
+					<nazwa>R450</nazwa>
+					<rokprodukcji>2014</rokprodukcji>
+					<pojemność>12.7</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Czerwony</kolor>
+				</model>
+			</marka>
+			<marka nazwa="DAF">
+				<opis>DAF Trucks NV – holenderski producent samochodów ciężarowych z siedzibą w Eindhoven. Od 1996 roku należy do grupy Paccar.</opis>
+				<model>
+					<nazwa>XF 105</nazwa>
+					<rokprodukcji>2016</rokprodukcji>
+					<pojemność>12.8</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Biały</kolor>
+				</model>
+				<model>
+					<nazwa>Cf-440</nazwa>
+					<rokprodukcji>2015</rokprodukcji>
+					<pojemność>10.8</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Pomarańczowy</kolor>
+				</model>
+				<model>
+					<nazwa>XF 106</nazwa>
+					<rokprodukcji>2017</rokprodukcji>
+					<pojemność>12.9</pojemność>
+					<paliwo>Diesel</paliwo>
+					<kolor>Biały</kolor>
+				</model>
+			</marka>
+		</marki>
+	</grupa>
+</grupy_produktów>
